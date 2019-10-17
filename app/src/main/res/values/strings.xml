@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="textview">Close navigation drawer</string>
+    <string name="another_fragment">Another fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="firstName">First Name</string>
+    <string name="save">Save</string>
+    <string name="faq">FAQ</string>
+    <string name="lastName">Last Name</string>
+    <string name="submit">SUBMIT</string>
+</resources>
